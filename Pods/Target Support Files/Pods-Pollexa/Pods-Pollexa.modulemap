@@ -1,0 +1,6 @@
+framework module Pods_Pollexa {
+  umbrella header "Pods-Pollexa-umbrella.h"
+
+  export *
+  module * { export * }
+}
